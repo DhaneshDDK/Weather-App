@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.tabsBg {
+    /* border-[#ffffff30] bg-[#ffffff1a] */
+    background-color: #ffffff1a;
+    border-color: #ffffff30;
+}
+
+.disable{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 0;
+    height: 0;
+    scale: 0;
+}
